@@ -1,4 +1,13 @@
 # FirstRepo
 This is my first repository
 
-I wil publish my java FileOpen dialog
+Published my java FileOpen dialog
+
+
+## Functional specification
+- Get methods
+  , create getLanci
+- Postman interface
+  , fixed port
+  
+  
